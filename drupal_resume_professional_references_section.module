@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Drupal Resume Professional References Section feature.
+ */
+
+include_once 'drupal_resume_professional_references_section.features.inc';
